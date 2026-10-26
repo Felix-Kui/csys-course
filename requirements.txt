@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+networkx
+pandas
+pytest
+pyreadr
+numba
+powerlaw==2.0.0
